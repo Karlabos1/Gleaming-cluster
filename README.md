@@ -1,5 +1,6 @@
 # Gleaming-cluster
 A package of miscellaneous baba is you levels about some game quirks I found.
+DISCLAIMER: some levels had to be patched out because they used obscure interactions of older version of the GROUP word. So make sure you are playing this in the latest version. Attached in a video is one of the previous solutions that used to work.
 
 
 How to play Gleaming cluster:
@@ -13,3 +14,4 @@ After doing so, enable the beta in your baba is your steam application, so that 
 the play levels feature.
 
 In game, under the play level menu, select "play levels" then "play level packages" and select "Gleaming Cluster"
+
